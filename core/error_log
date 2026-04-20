@@ -1,0 +1,20 @@
+[24-Aug-2023 16:32:29 America/Bogota] PHP Warning:  Undefined array key "usuario" in /home/candamil/avaluos.candamilabogados.com/core/listarusuario.php on line 9
+[24-Aug-2023 16:32:29 America/Bogota] PHP Deprecated:  unserialize(): Passing null to parameter #1 ($data) of type string is deprecated in /home/candamil/avaluos.candamilabogados.com/core/listarusuario.php on line 9
+[29-Aug-2023 08:34:16 America/Bogota] PHP Warning:  Undefined array key "usuario" in /home/candamil/avaluos.candamilabogados.com/core/listadodeavaluo.php on line 10
+[29-Aug-2023 08:34:16 America/Bogota] PHP Deprecated:  unserialize(): Passing null to parameter #1 ($data) of type string is deprecated in /home/candamil/avaluos.candamilabogados.com/core/listadodeavaluo.php on line 10
+[29-Aug-2023 09:00:57 America/Bogota] PHP Warning:  Undefined array key "usuario" in /home/candamil/avaluos.candamilabogados.com/core/listadodeavaluo.php on line 10
+[29-Aug-2023 09:00:57 America/Bogota] PHP Deprecated:  unserialize(): Passing null to parameter #1 ($data) of type string is deprecated in /home/candamil/avaluos.candamilabogados.com/core/listadodeavaluo.php on line 10
+[29-Aug-2023 11:35:24 America/Bogota] PHP Warning:  Undefined array key "usuario" in /home/candamil/avaluos.candamilabogados.com/core/listadodeavaluo.php on line 10
+[29-Aug-2023 11:35:24 America/Bogota] PHP Deprecated:  unserialize(): Passing null to parameter #1 ($data) of type string is deprecated in /home/candamil/avaluos.candamilabogados.com/core/listadodeavaluo.php on line 10
+[19-Feb-2024 16:00:33 America/Bogota] PHP Warning:  Undefined array key "usuario" in /home/candamil/avaluos.candamilabogados.com/core/listadodeavaluo.php on line 10
+[19-Feb-2024 16:00:33 America/Bogota] PHP Deprecated:  unserialize(): Passing null to parameter #1 ($data) of type string is deprecated in /home/candamil/avaluos.candamilabogados.com/core/listadodeavaluo.php on line 10
+[29-Jan-2025 21:14:03 America/Bogota] PHP Warning:  Undefined array key "usuario" in /home/candamil/avaluos.candamilabogados.com/core/exportarpdf.php on line 10
+[29-Jan-2025 21:14:03 America/Bogota] PHP Deprecated:  unserialize(): Passing null to parameter #1 ($data) of type string is deprecated in /home/candamil/avaluos.candamilabogados.com/core/exportarpdf.php on line 10
+[30-Jan-2025 01:36:17 America/Bogota] PHP Warning:  Undefined array key "usuario" in /home/candamil/avaluos.candamilabogados.com/core/formulario.php on line 8
+[30-Jan-2025 01:36:17 America/Bogota] PHP Deprecated:  unserialize(): Passing null to parameter #1 ($data) of type string is deprecated in /home/candamil/avaluos.candamilabogados.com/core/formulario.php on line 8
+[30-Jan-2025 15:47:59 America/Bogota] PHP Warning:  Undefined array key "usuario" in /home/candamil/avaluos.candamilabogados.com/core/editaravaluo.php on line 10
+[30-Jan-2025 15:47:59 America/Bogota] PHP Deprecated:  unserialize(): Passing null to parameter #1 ($data) of type string is deprecated in /home/candamil/avaluos.candamilabogados.com/core/editaravaluo.php on line 10
+[30-Jan-2025 17:01:51 America/Bogota] PHP Warning:  foreach() argument must be of type array|object, null given in /home/candamil/avaluos.candamilabogados.com/core/exportarpdf.php on line 1767
+[30-Jan-2025 17:01:51 America/Bogota] PHP Warning:  foreach() argument must be of type array|object, null given in /home/candamil/avaluos.candamilabogados.com/core/exportarpdf.php on line 1834
+[30-Jan-2025 17:07:16 America/Bogota] PHP Warning:  foreach() argument must be of type array|object, null given in /home/candamil/avaluos.candamilabogados.com/core/exportarpdf.php on line 1767
+[30-Jan-2025 17:07:16 America/Bogota] PHP Warning:  foreach() argument must be of type array|object, null given in /home/candamil/avaluos.candamilabogados.com/core/exportarpdf.php on line 1834

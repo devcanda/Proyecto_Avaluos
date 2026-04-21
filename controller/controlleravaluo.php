@@ -301,6 +301,8 @@ try
     $EstacionamientosDAM = $_POST['EstacionamientosDAM'];
     $AreasRecreativasNE  = $_POST['AreasRecreativasNE'];
     $AreasRecreativasDAM = $_POST['AreasRecreativasDAM'];
+    $SeguridadSectorNE = $_POST['SeguridadSectorNE'];
+    $SeguridadSectorDAM = $_POST['SeguridadSectorDAM'];
     $ViasDeAcceso               = $_POST['ViasDeAcceso'];
     $Andenes                    = $_POST['Andenes']; 
     $Acueducto                  = $_POST['Acueducto'];
@@ -610,6 +612,8 @@ try
     $obj->EstacionamientosDAM=$EstacionamientosDAM;
     $obj->AreasRecreativasNE=$AreasRecreativasNE;
     $obj->AreasRecreativasDAM=$AreasRecreativasDAM;
+    $obj->SeguridadSectorNE=$SeguridadSectorNE;    
+    $obj->SeguridadSectorDAM=$SeguridadSectorDAM;
     $obj->ViasDeAcceso=$ViasDeAcceso;
     $obj->Andenes=$Andenes;
     $obj->Acueducto=$Acueducto;
@@ -912,6 +916,8 @@ try
     $EstacionamientosDAM = $_POST['EstacionamientosDAM'];
     $AreasRecreativasNE  = $_POST['AreasRecreativasNE'];
     $AreasRecreativasDAM = $_POST['AreasRecreativasDAM'];
+    $SeguridadSectorNE = $_POST['SeguridadSectorNE'];
+    $SeguridadSectorDAM = $_POST['SeguridadSectorDAM'];
     $ViasDeAcceso               = $_POST['ViasDeAcceso'];
     $Andenes                    = $_POST['Andenes']; 
     $Acueducto                  = $_POST['Acueducto'];
@@ -1215,6 +1221,8 @@ try
     $obj->EstacionamientosDAM=$EstacionamientosDAM;
     $obj->AreasRecreativasNE=$AreasRecreativasNE;
     $obj->AreasRecreativasDAM=$AreasRecreativasDAM;
+    $obj->SeguridadSectorNE = $SeguridadSectorNE;
+    $obj->SeguridadSectorDAM = $SeguridadSectorDAM;
     $obj->ViasDeAcceso=$ViasDeAcceso;
     $obj->Andenes=$Andenes;
     $obj->Acueducto=$Acueducto;

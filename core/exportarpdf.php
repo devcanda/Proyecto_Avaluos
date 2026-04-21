@@ -732,6 +732,11 @@ $TipoDeDocumentoLista = array(
                                     <td><?php echo $avaluo->AreasRecreativasNE; ?></td>
                                     <td><?php echo $avaluo->AreasRecreativasDAM; ?></td>
                                 </tr>
+                                <tr>
+                                    <td><span class="tex">Seguridad del sector</span></td>
+                                    <td><?php echo $avaluo->SeguridadSectorNE; ?></td>
+                                    <td><?php echo $avaluo->SeguridadSectorDAM; ?></td>
+                                </tr>
                             </table>
 
                             <table>

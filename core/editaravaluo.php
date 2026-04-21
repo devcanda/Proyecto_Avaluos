@@ -1273,6 +1273,27 @@ $TipoDeDocumentoLista = array(
 										/>
 									</td>									
 								</tr>
+								<tr>									
+									<th scope="row">Seguridad del sector</th>
+									<td><input
+											type="text"
+											class="form-control"
+											name="SeguridadSectorNE"
+                                            id="SeguridadSectorNE"
+                                            placeholder="Escribir..."
+                                            value="<?php echo $avaluo->SeguridadSectorNE; ?>"
+										/>
+									</td>
+									<td><input
+											type="text"
+                                            class="form-control"
+                                            name="SeguridadSectorDAM"
+                                            id="SeguridadSectorDAM"
+                                            placeholder="Escribir..."
+                                            value="<?php echo $avaluo->SeguridadSectorDAM; ?>"
+										/>
+									</td>									
+								</tr>
 								</tbody>
 							</table>
 						</div>						
